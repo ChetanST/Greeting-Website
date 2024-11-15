@@ -1,0 +1,130 @@
+.head {
+    font-family: 'Ubuntu Mono', monospace;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    margin: auto;
+    padding: 1rem;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+body {
+    background-attachment: fixed;
+}
+
+.para {
+    font-family: 'Fira Mono', monospace;
+    font-size: 15px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 2rem;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.twitter {
+    background-color: black;
+    color: white;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    box-shadow: 4px 3px 50px black;
+    border: 2px solid white;
+    width: 8%;
+    padding: 2px 4px 2px 4px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.twitter:hover {
+    background-color: rgb(20, 20, 148);
+    color: white;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    box-shadow: 4px 3px 50px black;
+    border: 2px solid white;
+    width: 8%;
+    padding: 2px 4px 2px 4px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.linked {
+    background-color: black;
+    text-shadow: 5px 5px 50px black;
+    color: white;
+    border: 2px solid white;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    box-shadow: 4px 3px 50px black;
+    width: 8%;
+    padding: 2px 4px 2px 4px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.linked:hover {
+    background-color: rgb(020, 20, 148);
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    box-shadow: 4px 3px 50px black;
+    width: 8%;
+    padding: 2px 4px 2px 4px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.parent {
+    margin: 10rem 0 0 0;
+}
+
+.name {
+    color: white;
+    padding-right: 1rem;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.stitcher {
+    color: white;
+    border: 1px solid rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 7px 7px 7px 7px;
+    margin: auto;
+    margin-bottom: 10%;
+    margin-top: 1rem;
+    font-size: larger;
+}
+
+.stitcher:hover {
+    color: white;
+    background: rgb(153, 4, 4);
+    border: 2px solid white;
+    cursor: pointer;
+    /* text-decoration: underline; */
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 7px 7px 7px 7px;
+    margin: auto;
+    margin-bottom: 10%;
+    margin-top: 1rem;
+}
+/* 
